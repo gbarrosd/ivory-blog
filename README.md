@@ -18,6 +18,7 @@ Projeto de um pequeno sistema de blogs usando Python e o framework Django
 
 ## ✔️ Acessar admin e Documentação da API como o swagger
 -> Para acessar a pagina de admin do projeto apenas acesse a rota "localhost:8000/admin" e insira o login e senha que criou no passo 6<br>
--> Para acessar a documentação swagger do projeto acesse a rota "localhost:8000/api/"
--> a roota para acessar a parte visual é "localhost:3000"
+-> Para acessar a documentação swagger do projeto acesse a rota "localhost:8000/api/"<br>
+-> a roota para acessar a parte visual é "localhost:3000" <br>
+-> caso deseje rodar os testes do projeto o comando é "python3 manage.py test"
 
